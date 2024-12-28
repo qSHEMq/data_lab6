@@ -1,0 +1,147 @@
+{
+    "AREA": {
+        "memory_mb": 0.9569625854492188,
+        "percent_of_total": 0.9096476289383778,
+        "dtype": "int8"
+    },
+    "AREA NAME": {
+        "memory_mb": 0.9586400985717773,
+        "percent_of_total": 0.9112422010330977,
+        "dtype": "category"
+    },
+    "Crm Cd": {
+        "memory_mb": 1.9139251708984375,
+        "percent_of_total": 1.8192952578767556,
+        "dtype": "int16"
+    },
+    "Crm Cd 1": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    },
+    "Crm Cd 2": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    },
+    "Crm Cd 3": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    },
+    "Crm Cd 4": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    },
+    "Crm Cd Desc": {
+        "memory_mb": 1.9280157089233398,
+        "percent_of_total": 1.8326891195592387,
+        "dtype": "category"
+    },
+    "Cross Street": {
+        "memory_mb": 2.8785018920898438,
+        "percent_of_total": 2.7361805579943512,
+        "dtype": "category"
+    },
+    "DATE OCC": {
+        "memory_mb": 2.099982261657715,
+        "percent_of_total": 1.996153156011719,
+        "dtype": "category"
+    },
+    "DR_NO": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "int32"
+    },
+    "Date Rptd": {
+        "memory_mb": 2.099982261657715,
+        "percent_of_total": 1.996153156011719,
+        "dtype": "category"
+    },
+    "Index": {
+        "memory_mb": 0.000125885009765625,
+        "percent_of_total": 0.00011966089624959726,
+        "dtype": "nan"
+    },
+    "LAT": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    },
+    "LOCATION": {
+        "memory_mb": 11.251738548278809,
+        "percent_of_total": 10.695420539426607,
+        "dtype": "category"
+    },
+    "LON": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    },
+    "Mocodes": {
+        "memory_mb": 34.18341827392578,
+        "percent_of_total": 32.49329268948253,
+        "dtype": "category"
+    },
+    "Part 1-2": {
+        "memory_mb": 0.9569625854492188,
+        "percent_of_total": 0.9096476289383778,
+        "dtype": "int8"
+    },
+    "Premis Cd": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    },
+    "Premis Desc": {
+        "memory_mb": 1.943115234375,
+        "percent_of_total": 1.8470420814556014,
+        "dtype": "category"
+    },
+    "Rpt Dist No": {
+        "memory_mb": 1.9139251708984375,
+        "percent_of_total": 1.8192952578767556,
+        "dtype": "int16"
+    },
+    "Status": {
+        "memory_mb": 0.9574184417724609,
+        "percent_of_total": 0.9100809464263119,
+        "dtype": "category"
+    },
+    "Status Desc": {
+        "memory_mb": 0.9574604034423828,
+        "percent_of_total": 0.9101208333917284,
+        "dtype": "category"
+    },
+    "TIME OCC": {
+        "memory_mb": 1.9139251708984375,
+        "percent_of_total": 1.8192952578767556,
+        "dtype": "int16"
+    },
+    "Vict Age": {
+        "memory_mb": 0.9569625854492188,
+        "percent_of_total": 0.9096476289383778,
+        "dtype": "int8"
+    },
+    "Vict Descent": {
+        "memory_mb": 0.9584465026855469,
+        "percent_of_total": 0.9110581770790169,
+        "dtype": "category"
+    },
+    "Vict Sex": {
+        "memory_mb": 0.9573650360107422,
+        "percent_of_total": 0.9100301811976,
+        "dtype": "category"
+    },
+    "Weapon Desc": {
+        "memory_mb": 0.963932991027832,
+        "percent_of_total": 0.9162733978072286,
+        "dtype": "category"
+    },
+    "Weapon Used Cd": {
+        "memory_mb": 3.827850341796875,
+        "percent_of_total": 3.6385905157535112,
+        "dtype": "float32"
+    }
+}

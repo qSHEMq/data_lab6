@@ -1,0 +1,147 @@
+{
+    "AREA": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "int64"
+    },
+    "AREA NAME": {
+        "memory_mb": 54.82390308380127,
+        "percent_of_total": 6.357180023599572,
+        "dtype": "object"
+    },
+    "Crm Cd": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "int64"
+    },
+    "Crm Cd 1": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    },
+    "Crm Cd 2": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    },
+    "Crm Cd 3": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    },
+    "Crm Cd 4": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    },
+    "Crm Cd Desc": {
+        "memory_mb": 74.8928861618042,
+        "percent_of_total": 8.684306170062037,
+        "dtype": "object"
+    },
+    "Cross Street": {
+        "memory_mb": 36.181273460388184,
+        "percent_of_total": 4.195448626107287,
+        "dtype": "object"
+    },
+    "DATE OCC": {
+        "memory_mb": 67.94434356689453,
+        "percent_of_total": 7.878578491206893,
+        "dtype": "object"
+    },
+    "DR_NO": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "int64"
+    },
+    "Date Rptd": {
+        "memory_mb": 67.94434356689453,
+        "percent_of_total": 7.878578491206893,
+        "dtype": "object"
+    },
+    "Index": {
+        "memory_mb": 0.000125885009765625,
+        "percent_of_total": 1.4597167008146193e-05,
+        "dtype": "nan"
+    },
+    "LAT": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    },
+    "LOCATION": {
+        "memory_mb": 81.27989482879639,
+        "percent_of_total": 9.424920420862378,
+        "dtype": "object"
+    },
+    "LON": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    },
+    "Mocodes": {
+        "memory_mb": 57.719332695007324,
+        "percent_of_total": 6.6929234903856205,
+        "dtype": "object"
+    },
+    "Part 1-2": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "int64"
+    },
+    "Premis Cd": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    },
+    "Premis Desc": {
+        "memory_mb": 63.63738250732422,
+        "percent_of_total": 7.379158981281275,
+        "dtype": "object"
+    },
+    "Rpt Dist No": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "int64"
+    },
+    "Status": {
+        "memory_mb": 48.805073738098145,
+        "percent_of_total": 5.659258505252509,
+        "dtype": "object"
+    },
+    "Status Desc": {
+        "memory_mb": 57.49346733093262,
+        "percent_of_total": 6.666732965819648,
+        "dtype": "object"
+    },
+    "TIME OCC": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "int64"
+    },
+    "Vict Age": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "int64"
+    },
+    "Vict Descent": {
+        "memory_mb": 45.36583709716797,
+        "percent_of_total": 5.260457156929444,
+        "dtype": "object"
+    },
+    "Vict Sex": {
+        "memory_mb": 45.36604309082031,
+        "percent_of_total": 5.26048104320273,
+        "dtype": "object"
+    },
+    "Weapon Desc": {
+        "memory_mb": 46.10401630401611,
+        "percent_of_total": 5.346053727834629,
+        "dtype": "object"
+    },
+    "Weapon Used Cd": {
+        "memory_mb": 7.65570068359375,
+        "percent_of_total": 0.8877271539388049,
+        "dtype": "float64"
+    }
+}
